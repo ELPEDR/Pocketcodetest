@@ -1,0 +1,1 @@
+thumbnail 1:"https://raw.githubusercontent.com/ELPEDR/Pocketcodetest/refs/heads/main/Thumbnails/IMG_20241209_224957.png"
